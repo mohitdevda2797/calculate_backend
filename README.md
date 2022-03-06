@@ -1,4 +1,4 @@
-# Calculator Frontend
+# Calculator Backend
 
 This is a Django project and uses Django REST framework for providing GET, POST, PUT, DELETE APIs to perform data manipulation on Operations model.
 
